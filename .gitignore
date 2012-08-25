@@ -1,0 +1,19 @@
+# OS Specific
+Thumbs.db
+
+# Object files
+*.o
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+
+# Executables
+*.exe
+
+# Visual Studio
+*.sbr
+*.suo
+*.user
+
+Release/
+Debug/
